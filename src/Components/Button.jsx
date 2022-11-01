@@ -3,7 +3,7 @@ import Style from "./nav.module.css"
 const Button = () => {
   return (
     <div  id={Style.buttonBlock}>
-      <button>Register</button>
+      <button>Registesd adsd adsdar</button>
       </div>
   )
 }
